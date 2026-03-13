@@ -2,7 +2,8 @@
 
 Implementation of the DysonNet architecture and ABACUS local-update algorithm for neural quantum states (NQS).
 
-Paper: `DysonNet_Constant_Time_Local_Updates_for_Neural_Quantum_States.pdf` (January 23, 2026) by Lucas Winter and Andreas Nunnenkamp.
+Paper: [arXiv:2603.11189](https://arxiv.org/abs/2603.11189) by Lucas Winter and Andreas Nunnenkamp.
+Local copy: `DysonNet_Constant_Time_Local_Updates_for_Neural_Quantum_States.pdf` (January 23, 2026).
 
 
 
@@ -157,6 +158,10 @@ If you use this code or ideas from the paper, please cite:
   title={DysonNet: Constant-Time Local Updates for Neural Quantum States},
   author={Winter, Lucas and Nunnenkamp, Andreas},
   year={2026},
-  note={University of Vienna}
+  journal={arXiv preprint arXiv:2603.11189},
+  eprint={2603.11189},
+  archivePrefix={arXiv},
+  primaryClass={quant-ph},
+  url={https://arxiv.org/abs/2603.11189}
 }
 ```
